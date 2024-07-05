@@ -29,8 +29,9 @@ curl -X POST http://127.0.0.1:5000/generate -H "Content-Type: application/json" 
 python3 train_qwen2_model.py
 ```
 
-# Qwen2大模型微调
-[知乎](https://zhuanlan.zhihu.com/p/702491999)
+# Qwen2大模型微调参考
+[Qwen2大模型微调入门实战（完整代码）](https://zhuanlan.zhihu.com/p/702491999)
+[Qwen-1.5-7b指令微调实战：SwanLab可视化训练](https://zhuanlan.zhihu.com/p/701370317)
 
 
 #### Qwen 系列模型的不同版本主要在于参数量、用途和量化方式。以下是一些关键区别：
