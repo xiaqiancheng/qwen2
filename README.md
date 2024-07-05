@@ -31,6 +31,7 @@ python3 train_qwen2_model.py
 
 # Qwen2大模型微调参考
 [Qwen2大模型微调入门实战（完整代码）](https://zhuanlan.zhihu.com/p/702491999)
+
 [Qwen-1.5-7b指令微调实战：SwanLab可视化训练](https://zhuanlan.zhihu.com/p/701370317)
 
 
